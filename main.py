@@ -1,8 +1,3 @@
 # main.py
 
-
-# test pull
-
-# test fetch
-
-# pull test
+# something to write
